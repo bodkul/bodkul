@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😎 Currently taking a break from work.
+
+
 <!--
 **bodkul/bodkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
