@@ -4,7 +4,7 @@
 ---
 
 ### :octocat: Fun private projects
-* [faceitdeaf](https://faceitdeaf.pro/) | A FACEIT performance tracker for deaf CS2 players
+* [csdeaf](https://csdeaf.pro/) | A FACEIT performance tracker for deaf CS2 players
 
 ---
 
